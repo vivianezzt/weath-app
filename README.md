@@ -28,6 +28,9 @@ O layout foi desenvolvido com **mobile-first design**, garantindo que funcione a
 ├── styles.css       # Estilos do projeto
 └── images/          # (Opcional) Pasta para imagens ou ícones
 
+## Imagem do projeto 
+
+<img src="/images/Clima Hoje Desktop.png">
 
 ## 🌟 Como Utilizar
 
